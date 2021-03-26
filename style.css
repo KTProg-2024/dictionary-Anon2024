@@ -1,1 +1,46 @@
 
+  p {
+    font-family:Times;
+  }
+  .Logo {
+    color:rgb(255, 255, 255);
+    background-color:#2d5f7c;
+    font-size:20px;
+  }
+  .word {
+    font-size:50px;
+    font-family:'Times New Roman';
+  }
+  .Noun {
+    color: #2d5f7c;
+    font-weight:Bold;
+    font-family:Times;
+    font-size:25px;
+  }
+  .pronounce {
+    color:#2d5f7c;
+    font-style:italic;
+  }
+.Definition {
+  font-weight:Bold;
+}
+.ol {
+  font-family:Times;
+}
+.Examples {
+  font-weight:bold;
+  color:#2d5f7c;
+}
+.cool {
+  font-style:italic;
+}
+.credits {
+  font-size:small;
+}
+.copyright {
+  background-color:#2d5f7c;
+  color:rgb(255, 255, 255)
+}
+.Buttons {
+  color:aliceblue;
+}
